@@ -63,7 +63,7 @@
                     </connections>
                 </panGestureRecognizer>
             </objects>
-            <point key="canvasLocation" x="-1668" y="2159"/>
+            <point key="canvasLocation" x="-1668" y="1566.5667166416792"/>
         </scene>
         <!--Tab Bar Controller-->
         <scene sceneID="bHR-w5-bra">
@@ -276,7 +276,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="LFy-Vo-LfC" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-1668" y="787"/>
+            <point key="canvasLocation" x="-2007.2" y="786.65667166416802"/>
         </scene>
         <!--Profile-->
         <scene sceneID="Lud-IK-JTj">
@@ -454,7 +454,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Iot-rF-M64" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-2700" y="787"/>
+            <point key="canvasLocation" x="-2700" y="961"/>
         </scene>
     </scenes>
     <resources>
